@@ -28,8 +28,9 @@
 
 ![](Foto/hasil4.png)
 
-Pembahasan
-Kita deklarasikan variabel pi = 22/7, secara otomatis menggunakan tipe data float karena bernilai desimal.
-Kemudian diminta memasukan nilai Jari-jari (r), inputan dibungkus float agar nanti perhitungan dapat mengoprasikan nilai desimal.
-Mengimplementasikan Rumus Luas dan Keliling yang sudah saya berikan kedalam sebuah codingan.
-Cetak memakai "{:.3f}".format(luas) kenapa? penambahan "{:.3f}".format(), membatasi 3 karakter dibelakang koma.
+## Pembahasan
+
+1. Kita deklarasikan variabel pi = 22/7, secara otomatis menggunakan tipe data float karena bernilai desimal.
+2. Kemudian diminta memasukan nilai Jari-jari (r), inputan dibungkus float agar nanti perhitungan dapat mengoprasikan nilai desimal.
+3. Mengimplementasikan Rumus Luas dan Keliling yang sudah saya berikan kedalam sebuah codingan.
+4. Cetak memakai "{:.3f}".format(luas) kenapa? penambahan "{:.3f}".format(), membatasi 3 karakter dibelakang koma.
