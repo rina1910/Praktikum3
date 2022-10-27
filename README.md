@@ -1,26 +1,35 @@
-# Praktikum3
-
-<strong>Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman</strong>
-| <strong>Nama</strong> | <strong>Riris Naomi Gurning</strong> |
-| ----------- | ----------- |
-| <strong>NIM</strong> | <strong>312010190</strong> |
-| <strong>Kelas</strong> | <strong>TI.22.A.1</strong> |
-
-# Latihan 1
+# <b>Latihan 1</b>
 
 ![](Foto/foto1.png)
 
-# Latihan 2
+## <br>Hasil Run Code:</br>
+
+![](Foto/hasil1.png)
+
+# <b>Latihan 2</b>
 
 ![](Foto/foto2.png)
 
-# Latihan 3 "Membuat kode program menggunakan string formating untuk menghasilkan output seperti pada gambar disamping
+## <br>Hasil Run Code:</br>
+
+![](Foto/hasil2.png)
+
+# <b>Latihan 3 "Membuat kode program menggunakan string formating untuk menghasilkan output seperti pada gambar dibawah ini.</b>
 
 ![](Foto/foto3.png)
 
-# Buat kode program untuk menghitung luas dan keliling lingkaran menggunakan Python.
+# <b>Buat kode program untuk menghitung luas dan keliling lingkaran menggunakan Python.</b>
+
+## <br>Source Code</br>
 
 ![](Foto/foto4.png)
 
-<br>Output</br>
+## <br>Hasil Run Code:</br>
+
 ![](Foto/hasil4.png)
+
+Pembahasan
+Kita deklarasikan variabel pi = 22/7, secara otomatis menggunakan tipe data float karena bernilai desimal.
+Kemudian diminta memasukan nilai Jari-jari (r), inputan dibungkus float agar nanti perhitungan dapat mengoprasikan nilai desimal.
+Mengimplementasikan Rumus Luas dan Keliling yang sudah saya berikan kedalam sebuah codingan.
+Cetak memakai "{:.3f}".format(luas) kenapa? penambahan "{:.3f}".format(), membatasi 3 karakter dibelakang koma.
